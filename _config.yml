@@ -1,7 +1,5 @@
 theme: minima
 title: LeetBuddy
-author:
-  name: Shubhojit Chattopadhyay
-  email: admin@leetbuddy.dev
+author: Shubhojit Chattopadhyay (admin@leetbuddy.dev)
 description: Your friend for solving coding problems.
 site.github.repository_url: leetbuddy.dev

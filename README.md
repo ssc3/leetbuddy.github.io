@@ -7,7 +7,14 @@ The LeetBuddy Chrome Extension is a powerful tool designed to assist developers 
 
 ## Installation
 
-[Install the extension](https://chrome.google.com/webstore/detail/leetbuddy/gjbogplpdlgmojginmempnicbpbledkn) from Chrome web store
+[Install the extension](https://chrome.google.com/webstore/detail/leetbuddy/gjbogplpdlgmojginmempnicbpbledkn) from Chrome web store.
+
+## Usage
+- Navigate to the web page where the problem statement is given.
+- Click on the extension in your toolbar.
+- Press "Click me for help" button.
+- The result appears in a few seconds.
+
 
 
 ## Support and Contribution

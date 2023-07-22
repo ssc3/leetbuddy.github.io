@@ -25,7 +25,7 @@ The LeetBuddy Chrome Extension is a powerful tool designed to assist developers 
 If you encounter any issues or have suggestions for improvements, please feel free to [open an issue](https://github.com/ssc3/leetbuddy.github.io/issues). We welcome contributions from the community to make this extension even more powerful and user-friendly.
 
 ## Support
-Does this extension give you value? Please help support the bills for the extension.
+Does this extension help you? Please consider supporting.
 [
   ![Donate with PayPal](https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png)
 ](https://www.paypal.com/donate/?hosted_button_id=ZWM6QK6F854BL)

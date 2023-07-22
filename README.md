@@ -5,6 +5,9 @@
 
 The LeetBuddy Chrome Extension is a powerful tool designed to assist developers in solving coding problems and challenges. Whether you're a beginner learning to code or an experienced developer looking to enhance your problem-solving skills, this extension is here to make your life easier.
 
+![leetbuddygif](https://github.com/ssc3/leetbuddy.github.io/assets/3619841/7da6e901-cd7c-4e1a-aa13-4e5151273d61)
+
+
 ## Installation
 
 [Install the extension](https://chrome.google.com/webstore/detail/leetbuddy/gjbogplpdlgmojginmempnicbpbledkn) from Chrome web store.

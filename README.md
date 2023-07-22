@@ -12,7 +12,7 @@ The LeetBuddy Chrome Extension is a powerful tool designed to assist developers 
 ## Usage
 - Navigate to the web page where the problem statement is given.
 - Click on the extension in your toolbar.
-- Press the <span style="color:green">Click me for help</span> button.
+- Press the $${\color{green}Click me for Help}$$ button.
 - The result appears in a few seconds.
 
 ## Contribution

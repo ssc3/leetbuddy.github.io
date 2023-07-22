@@ -1,4 +1,5 @@
 theme: minima
 title: LeetBuddy
+author: Shubhojit Chattopadhyay
 description: Your friend for solving coding problems.
 site.github.repository_url: leetbuddy.dev

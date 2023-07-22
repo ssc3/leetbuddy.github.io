@@ -1,4 +1,4 @@
 theme: minima
 title: LeetBuddy
 description: Your friend for solving coding problems.
-site.url: leetbuddy.dev
+site.github.repository_url: leetbuddy.dev

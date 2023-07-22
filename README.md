@@ -18,11 +18,17 @@ The LeetBuddy Chrome Extension is a powerful tool designed to assist developers 
 - Press the ![Screenshot 2023-07-22 at 12 41 01 PM](https://github.com/ssc3/leetbuddy.github.io/assets/3619841/de2d00c4-51bd-4b30-991f-c2a9d1acb561) button.
 - The result appears in a few seconds.
 
+## Review
+🌟 Elevate your coding with LeetBuddy, the revolutionary extension! Share your experience and [leave a review](https://chrome.google.com/webstore/detail/leetbuddy/gjbogplpdlgmojginmempnicbpbledkn) today. 🌟
+
 ## Contribution
 If you encounter any issues or have suggestions for improvements, please feel free to [open an issue](https://github.com/ssc3/leetbuddy.github.io/issues). We welcome contributions from the community to make this extension even more powerful and user-friendly.
 
 ## Support
 Please help support the bills for the extension.
+
+
+
 
 
 ---

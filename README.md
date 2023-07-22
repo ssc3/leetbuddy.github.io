@@ -1,6 +1,6 @@
 # LeetBuddy Chrome Extension
 
-![Extension Logo](./logos/logo48.png)
+![icon48](https://github.com/ssc3/leetbuddy.github.io/assets/3619841/9cd0d700-b412-4223-9fd3-36d24bccfc74)
 
 ## Overview
 

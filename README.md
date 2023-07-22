@@ -27,10 +27,8 @@ If you encounter any issues or have suggestions for improvements, please feel fr
 ## Support
 Does this extension give you value? Please help support the bills for the extension.
 [
-  ![Donate with PayPal]
-  (https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png)
-]
-(https://www.paypal.com/donate/?hosted_button_id=ZWM6QK6F854BL)
+  ![Donate with PayPal](https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png)
+](https://www.paypal.com/donate/?hosted_button_id=ZWM6QK6F854BL)
 
 
 

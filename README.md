@@ -15,11 +15,12 @@ The LeetBuddy Chrome Extension is a powerful tool designed to assist developers 
 - Press "Click me for help" button.
 - The result appears in a few seconds.
 
-
-
-## Support and Contribution
-
+## Contribution
 If you encounter any issues or have suggestions for improvements, please feel free to [open an issue](https://github.com/ssc3/leetbuddy.github.io/issues). We welcome contributions from the community to make this extension even more powerful and user-friendly.
+
+## Support
+Please help support the bills for the extension.
+
 
 ---
 

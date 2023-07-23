@@ -10,7 +10,7 @@ The LeetBuddy Chrome Extension is a powerful tool designed to assist developers 
 
 ## Installation
 
-[Install the extension ![Google_Chrome_Logo_2008](https://github.com/ssc3/leetbuddy.github.io/assets/3619841/0886ab0e-6695-4303-8738-0967aa81d447)](https://chrome.google.com/webstore/detail/leetbuddy/gjbogplpdlgmojginmempnicbpbledkn)
+[Install the extension ![Google_Chrome_Logo_2008](![Google_Chrome_Logo_2008 (1)](https://github.com/ssc3/leetbuddy.github.io/assets/3619841/6ebc3c9e-8322-456a-9360-a4bde20f1c7e)](https://chrome.google.com/webstore/detail/leetbuddy/gjbogplpdlgmojginmempnicbpbledkn)
 
 
 ## Usage
